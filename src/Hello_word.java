@@ -5,13 +5,14 @@ public class Hello_word {
 //        System.out.print("Hello world ");
 //        System.out.println("Hello world");
 //        System.out.println("Mother" + " Son " + "Father");
-        int i=7;
-        int j=5;
+        int i=70;
+        int j=5000;
+
 //        System.out.println("i="+i); //вывод i=7
 //        System.out.println("i+j="+i+j); //вывод i+j=75
 //        System.out.println("i+j="+(i+j)); //вывод i+j=12
 //        System.out.println(i+j); //вывод 12
-//        System.out.printf("i=%d j=%d\n",i,j);
+        System.out.printf("i=%d fgd j=%d\n",i,j);
 //        System.out.printf("i=%-5d k=%5d\n",i,j);//i выравнивается влево в 5 позициях, k - вправо
 //        int rub=3,kop=0;
 //        System.out.printf("%03d руб. %04d коп.",rub,kop);//выводится: 03 руб. 00 коп.
